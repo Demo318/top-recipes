@@ -1,5 +1,5 @@
-The Odin Project > Foundations Course > HTML Foundations
-# Recipes
+[The Odin Project](https://www.theodinproject.com/) > [Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations) > HTML Foundations
+# [Recipes](https://www.theodinproject.com/lessons/foundations-recipes)
 
 This project is designed to reinforce the basic building blocks of HTML.
 
