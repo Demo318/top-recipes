@@ -1,0 +1,18 @@
+h1 {
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 80px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+li {
+  font-family: "Helvetica", sans-serif;
+  color: red;
+}
+
+ul {
+  background-color: lightgreen;
+  width: 100px;
+  margin: 0 auto;
+}
